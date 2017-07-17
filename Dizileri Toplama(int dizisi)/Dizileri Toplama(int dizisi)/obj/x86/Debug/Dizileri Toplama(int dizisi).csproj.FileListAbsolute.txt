@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\bin\Debug\Dizileri Toplama(int dizisi).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\bin\Debug\Dizileri Toplama(int dizisi).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\Dizileri Toplama(int dizisi).csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\Dizileri Toplama(int dizisi).csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\Dizileri Toplama(int dizisi).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Dizileri Toplama(int dizisi)\Dizileri Toplama(int dizisi)\obj\x86\Debug\Dizileri Toplama(int dizisi).pdb
